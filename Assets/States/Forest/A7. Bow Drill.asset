@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbc2dce4100584a87c462519ab4c1b, type: 3}
+  m_Name: A7. Bow Drill
+  m_EditorClassIdentifier: 
+  storyText: "You're a smart boy!  Knowing that you're smaller, and not exactly very
+    strong yet (because you're only 6 years old!) you decide to go with the bow drill,
+    as it will require less effort to start a fire.  Using your shoestring a couple
+    of long sticks and a rock, you fashion a bow drill, and set to making the ember
+    in your notch.  You soon have a blazing fire that dries your clothes and warms
+    your body.\r\n\r\n1.  Search for food.\r\n\r\n2.  Go to sleep.\r\n\r\n3.  Search
+    for water."
+  nextStates:
+  - {fileID: 11400000, guid: ab89787ef0652b44d9ec721a82f6f785, type: 2}
+  - {fileID: 11400000, guid: f38820dea8689014e84b2537b60de2fe, type: 2}
+  - {fileID: 11400000, guid: b78a14992c09bf9468d6d4bb21f0f2c5, type: 2}

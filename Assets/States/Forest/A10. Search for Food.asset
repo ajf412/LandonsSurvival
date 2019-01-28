@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbc2dce4100584a87c462519ab4c1b, type: 3}
+  m_Name: A10. Search for Food
+  m_EditorClassIdentifier: 
+  storyText: "Looking around the trees and bushes, you find some tubers and berries,
+    and make a little meal for yourself.  You set some traps, and decide that tomorrow,
+    you will NEED to go in search of water.  You wearily make your way to your fire,
+    where you lay down for the night with some food in your belly.\r\n\r\n1.  Go to
+    the next day.\n\n(NEXT AREA UNDER DEVELOPMENT, you will be sent to main menu)"
+  nextStates:
+  - {fileID: 11400000, guid: 65fa6c607da4d8f4b89cede45a75a92a, type: 2}

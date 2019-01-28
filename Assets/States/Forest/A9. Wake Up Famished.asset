@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbc2dce4100584a87c462519ab4c1b, type: 3}
+  m_Name: A9. Wake Up Famished
+  m_EditorClassIdentifier: 
+  storyText: 'Your eyes are peeled open by the hunger in your belly, and the thirst
+    in your dry mouth.  A chill wiggles its way down your back as you slowly sit up
+    to look at your dying fire.  You add some bits of wood and stoke it back to life,
+    and finally rid your body of the chill after a few minutes.  You are tired, wore
+    out, and still a little cold.
+
+
+    1.  Find food.
+
+
+    2.  Find Water.
+
+
+    3.  Build a shelter.
+
+    (NEXT AREA UNDER DEVELOPMENT, you will be sent to main menu)'
+  nextStates:
+  - {fileID: 11400000, guid: 65fa6c607da4d8f4b89cede45a75a92a, type: 2}
+  - {fileID: 11400000, guid: 65fa6c607da4d8f4b89cede45a75a92a, type: 2}
+  - {fileID: 11400000, guid: 65fa6c607da4d8f4b89cede45a75a92a, type: 2}

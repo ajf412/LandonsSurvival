@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbc2dce4100584a87c462519ab4c1b, type: 3}
+  m_Name: A8. Fire Plough
+  m_EditorClassIdentifier: 
+  storyText: "You decide to use a fire plough to make your fire.  You get a nice hardwood
+    stick for your plow, and some softwood for your base.  You set the wood to work,
+    pushing, rubbing, pushing, rubbing, pushing, rubbing...  It takes hours, but finally,
+    you see a ribbon of smoke, but then it goes out.  More pushing, rubbing, pushing,
+    rubbing... another ribbon of smoke that you finally nurture into a healthy little
+    flame, and eventually, a comfortable, roaring fire.  You are cold and tired, but
+    now finally warming up.  You slowly drift off to sleep in front of your fire.\r\n\r\n1.
+    \ Go to the next day."
+  nextStates:
+  - {fileID: 11400000, guid: f38820dea8689014e84b2537b60de2fe, type: 2}

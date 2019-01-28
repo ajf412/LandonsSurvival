@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbc2dce4100584a87c462519ab4c1b, type: 3}
+  m_Name: A11. Search for Water
+  m_EditorClassIdentifier: 
+  storyText: "Looking around for water, you eventually find a small, clear, running
+    stream, and kneel down, taking a small drink.  You decide that tomorrow, you'll
+    look for food, and figure out a way to carry water back to the cove, so you don't
+    have to walk up here for every sip.  You make your way back to your camp, and
+    settle down for sleep.  You're cold, but you're alive.\r\n\r\n1.  Go to the next
+    day.\n\n(NEXT AREA UNDER DEVELOPMENT, you will be sent to main menu)"
+  nextStates:
+  - {fileID: 11400000, guid: 65fa6c607da4d8f4b89cede45a75a92a, type: 2}
