@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbc2dce4100584a87c462519ab4c1b, type: 3}
+  m_Name: A5. Cove 2
+  m_EditorClassIdentifier: 
+  storyText: "In the cove you find tons of driftwood gathered upon the beach.  You
+    are able to gather enough to take with you for a fire.\r\n\r\n1.  Go to the shore
+    to check for supplies.\n\r\n2.  Go to the treeline."
+  nextStates:
+  - {fileID: 11400000, guid: ea5e68585bf728d4ea56068e6f007e30, type: 2}
+  - {fileID: 11400000, guid: ee8f948f9a9cec54da065d7b3219da4e, type: 2}

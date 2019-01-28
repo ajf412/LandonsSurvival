@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbc2dce4100584a87c462519ab4c1b, type: 3}
+  m_Name: X2. Frozen
+  m_EditorClassIdentifier: 
+  storyText: 'You smack the rocks together time and time again, hoping for a spark.  Unfortunately,
+    they aren''t the right kind of rocks.  The cold eventually fades from your mind,
+    and you grow sleepy.  Just... a short nap...  would be fine... right?  You close
+    your eyes, and drift off to sleep... and never wake up again.  You died.
+
+
+    Want to try again?
+
+    1.  Yes
+
+    2.  No'
+  nextStates:
+  - {fileID: 11400000, guid: 8ddd1bb0a7751f645ae977bbdf339fc3, type: 2}
+  - {fileID: 11400000, guid: 65fa6c607da4d8f4b89cede45a75a92a, type: 2}

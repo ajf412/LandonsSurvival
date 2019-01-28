@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbc2dce4100584a87c462519ab4c1b, type: 3}
+  m_Name: A1. Wake Up
+  m_EditorClassIdentifier: 
+  storyText: "You wake up on a beach, groggy, and you have a big headache.  It hurts
+    so bad, your vision is blurry.  You shivver with the cold as you look around and
+    get your surroundings.\r\nYou find yourself on a stoney beach, the cold ocean
+    stretching out far beyond your sight to the West.\r\nBehind you to the East, beyond
+    the rocky shore, is the treeline.  Evergreens and low shrubs grow everywhere.\r\nNorth
+    along the beach, you can see a small cove, with lots of driftwood gathered on
+    the shore.  South along the beach is more empty, rocky beach.\r\n\r\n1.  Go West
+    to the water, and check for any supplies that may have washed up with you.\r\n2.
+    \ Go North to the cove.\r\n3.  Go East to the treeline."
+  nextStates:
+  - {fileID: 11400000, guid: ea5e68585bf728d4ea56068e6f007e30, type: 2}
+  - {fileID: 11400000, guid: 737a49fd5458008459fbd9481b9274cf, type: 2}
+  - {fileID: 11400000, guid: 7aa11605c51fa724d8b484792a541ec9, type: 2}

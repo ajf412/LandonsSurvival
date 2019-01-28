@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbc2dce4100584a87c462519ab4c1b, type: 3}
+  m_Name: A6. Tree 2
+  m_EditorClassIdentifier: 
+  storyText: "A6. Tree 2\r\nWith the length of rope you find, you're able to snap
+    branches and build a small shelter.  It's cold, you're wet, and you need a fire.
+    \ Firewood is all over the place now, so you gather up the materials to start
+    making a fire.\r\n\r\n1.  Make a fire with a bow drill.\r\n\r\n2.  Make a fire
+    with a fire plow.\r\n\r\n3.  Make a fire by smacking two rocks together."
+  nextStates:
+  - {fileID: 11400000, guid: 2bb9c953667fb854fa8072072936016e, type: 2}
+  - {fileID: 11400000, guid: 874b43313e6e81342b87327b10b284b6, type: 2}
+  - {fileID: 11400000, guid: 47c7541a1407f4e478315ba0a9e5c966, type: 2}

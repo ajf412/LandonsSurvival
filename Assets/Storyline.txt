@@ -1,0 +1,9 @@
+Start:
+You wake up on a beach, groggy, and you have a big headache.  It hurts so bad, your vision is blurry.  You shivver with the cold, as you look around and get your surroundings.
+You find yourself on a stoney beach, the cold ocean stretching out far beyond your sight to the West.
+Behind you to the East, beyond the rocky shore, is the treeline.  Evergreens and low shrubs grow everywhere.
+North along the beach, you can see a small cove, with lots of driftwood gathered on the shore.  South along the beach is more empty, rocky beach.
+
+1.  Go West to the water, and check for any supplies that may have washed up with you.
+2.  Go North to the cove.
+3.  Go East to the treeline.

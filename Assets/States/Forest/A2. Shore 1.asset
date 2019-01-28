@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0dbc2dce4100584a87c462519ab4c1b, type: 3}
+  m_Name: A2. Shore 1
+  m_EditorClassIdentifier: 
+  storyText: "You search the shore, looking for any trash that may have washed up.
+    \ You now have a 60 foot length of throw rope with a small buoy on the end of
+    it.  \r\n\r\n1.  Go North to the cove.\n\r\n2.  Go to the treeline.\n\r\n3.  Go
+    swimming."
+  nextStates:
+  - {fileID: 11400000, guid: 2828b96c5f4b9a945bedd020fc1a918b, type: 2}
+  - {fileID: 11400000, guid: ee8f948f9a9cec54da065d7b3219da4e, type: 2}
+  - {fileID: 11400000, guid: 8074e6ba68dd9d940b0957f02ed8cc2e, type: 2}
